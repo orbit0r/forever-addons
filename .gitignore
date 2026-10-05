@@ -1,0 +1,20 @@
+# Local / OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.bak
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Personal debug helper (not a public release product)
+addons/!Orbit0rErrorDump/
+
+# Scratch / build
+_scratch/
+*.zip

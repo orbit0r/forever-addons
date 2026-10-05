@@ -1,0 +1,9 @@
+## Interface: 16001, 120100
+## Title: Dynamic Panels
+## Notes: Hold modifiers (default Ctrl+Shift) and drag Blizzard panel headers. Skips ElvUI. /dp
+## Author: orbit0r
+## Version: 1.0.0
+## SavedVariablesPerCharacter: DynamicPanelsDB
+
+DynamicPanels.lua
+DynamicPanelsConfig.lua
