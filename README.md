@@ -1,6 +1,10 @@
 # Forever Addons (index)
 
-This repo is a **link index** only. Each addon lives in its own repository (usual WoW addon layout).
+This repo is a **link index** for friend-facing Forever plugins. It is **not** a knowledge base and is **not** on machine Good Morning / Good Night (`master-sync.ps1`).
+
+Push here (and the per-addon public repos) when a usable build is ready to share. Lessons and mistakes go in private **wow-knowledge** under `docs/REFERENCE/forever/`.
+
+Each addon lives in its own repository (usual WoW addon layout).
 
 | Addon | Repository | Release |
 |---|---|---|
